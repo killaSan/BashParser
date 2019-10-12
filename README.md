@@ -5,7 +5,7 @@ INTRODUCTION
 The program is a Bash parser which will perform the following commands
 	- head [-n] files[...] ;
 	- cat file [...];
-	-  ort [-r] file [...];
+	- sort [-r] file [...];
 	- tail [-n] files [...];
 	- wc [-c (counts characters)/ -w(counts words)/ -l(counts lines)/ ] [file - passed to head ]... ;
 	- cut -c beg-end files[...] ;
